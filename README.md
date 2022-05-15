@@ -2,7 +2,6 @@
 
 - 저는 Altibase라는 오픈 소스 DBMS의 분산 부분 개발을 담당하는 개발자이자 리더입니다.
 - I am a developer and leader in charge of the developing distributed part of an open source DBMS called Altibase.
-- https://eddy-lee.atlassian.net/
 
 ## Patent
 
@@ -37,7 +36,8 @@
    - 2004년 7월 :WFS 시연 - (주)KTDATA (한국통신데이타)
    - 2005년 1월 :WFS 전시 - 대학산업기술지원단주최 대학 보유기술 전시회 (KOEX)
 
-
+## etc
+- https://eddy-lee.atlassian.net/
 
 <!---
 lswhh/lswhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
