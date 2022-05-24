@@ -27,7 +27,7 @@
 
 ## Algorithm
 
-* Lock Free Garbage Collection Algolithm ( InProgressCounter )
+* Lock Free Double Linked List Garbage Collection Algolithm ( InProgressCounter )
   *  https://github.com/lswhh/nexus/blob/main/LockFreeGCAlgolithm(InProgressCounter)/LockFreeGCAlgolithm(InProgressCounter).md
 
 ## Program Registration
