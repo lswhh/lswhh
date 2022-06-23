@@ -1,7 +1,7 @@
 ## Brief Introduction
 
 - 저는 Altibase라는 오픈 소스 DBMS의 분산 부분 개발을 담당하는 개발자 입니다.
-- I am a developer and leader in charge of the developing distributed part of an open source DBMS called Altibase.
+- I am a developer in charge of the developing distributed part of an open source DBMS called Altibase.
 
 ## Patent
 
